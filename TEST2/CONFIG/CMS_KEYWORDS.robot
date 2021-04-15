@@ -166,3 +166,5 @@ Click Search HN To DN
 
 Show More Flights
     Click Button    //button[@type="button" and @name="showMoreButton"]
+Show More Flights2
+    Click Button    //button[@type="button" and @name="showMoreButton"]
